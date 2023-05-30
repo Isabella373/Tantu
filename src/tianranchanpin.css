@@ -1,0 +1,15 @@
+#contentProduct{
+    width: 100%;
+}
+
+#im50{
+    width: 49%;
+}
+
+@media screen and (max-width: 500px) {
+    #im50{
+        width: 100%;
+    }
+}
+
+

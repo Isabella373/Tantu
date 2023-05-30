@@ -1,0 +1,73 @@
+html,body{
+    height: 100%;
+    width: 100%;
+  }
+  
+  body{
+      font-family: Raleway;
+  }
+  #im100{
+    width: 100%;
+    margin-left: 0;
+    
+  }
+  .jumbotron{
+    height: 100%;
+    width: 100%;
+    margin-top: 5%;
+  }
+  
+  #title{
+    font-family: Raleway;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  #subtitle{
+    text-align: center;
+    font-family: Raleway;
+    font-weight:bold;
+    font-style: italic;
+  }
+  
+  #underPic{
+    font-family: Raleway;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  
+  #column{
+    font-family: Raleway;
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+  
+  span{
+    font-weight: bold;
+  }
+  
+  h4{
+    padding-top: 10px;
+  }
+  
+  .quote{
+      text-align: left;
+  }
+  
+  #sign{
+    opacity: 0.5;
+    font-size: 20px;
+    margin-bottom: 40px;
+  }
+  
+  footer{
+    background-color: black;
+    color: gray;
+    padding-top: 10px;
+    padding-bottom: 6px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+  }
+  
